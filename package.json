@@ -1,0 +1,15 @@
+{
+  "name": "react-mobile",
+  "version": "1.0.0",
+  "description": "A project use for mobile by react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "mobile"
+  ],
+  "author": "dongyu",
+  "license": "ISC"
+}
